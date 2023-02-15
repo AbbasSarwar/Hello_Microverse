@@ -97,9 +97,8 @@ After you're finished please remove all the comments and instructions!
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-> Add a link to your deployed project.
 
-- [Live Demo Link]([https://yourdeployedapplicationlink.com](https://github.com/AbbasSarwar/Hello_Microverse))
+- [Live Demo Link]([https://github.com/AbbasSarwar/Hello_Microverse])
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -119,8 +118,8 @@ In order to run this project you need:
 1. A good Computer
 2. A good knowledge about CSS & HTML
 
-cd Hello_Microverse
-git clone https://github.com/AbbasSarwar/Hello_Microverse.git
+* cd Hello_Microverse
+* git clone https://github.com/AbbasSarwar/Hello_Microverse.git
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
